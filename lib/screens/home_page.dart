@@ -83,9 +83,9 @@ class _HomePageState extends State<HomePage> {
         kBottomRadius: 28.0,  // Added this required parameter
 
         notchBottomBarController: _controller,
-        color: const Color(0xFF1a1a2f),
+        color: const Color(0xFF2D2D2D),
         showLabel: true,
-        notchColor: const Color(0xFF00ff88),
+        notchColor: const Color(0xFF4A4A4A),
         removeMargins: false,
         bottomBarWidth: 500,
         durationInMilliSeconds: 300,
